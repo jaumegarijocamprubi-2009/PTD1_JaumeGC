@@ -1,0 +1,6 @@
+console.log("JaumeGC")
+console.log("M'agradaria viatjar a Londres")
+console.log("El meu menjar preferit es: pizza")
+console.log("M'agrada practicar tennis")
+console.log("Un animal que m'agrada es: gat")
+console.log("Soc en JaumeGC, m'agradaria viatjar a Londres, el meu menjar preferit és la pizza, m'agrada pracitcar tennis i el meu animal preferit soón els moixos")
