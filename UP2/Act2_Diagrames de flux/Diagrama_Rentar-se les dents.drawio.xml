@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="2zYc109azezcA0uFLVWJ">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-1" target="RJ5lauoAsY-VUKiGqzby-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-1" value="Diagrama_Rentar-se les dents" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-2" value="Agafar el respall de dents" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-6" target="RJ5lauoAsY-VUKiGqzby-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-11" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RJ5lauoAsY-VUKiGqzby-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.11" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-6" target="RJ5lauoAsY-VUKiGqzby-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-12" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RJ5lauoAsY-VUKiGqzby-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.215" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-6" value="Revisar si hi ha pasta de dents" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-7" target="RJ5lauoAsY-VUKiGqzby-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-7" value="No hi ha pasta de dents i no em rento les dents" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-9" target="RJ5lauoAsY-VUKiGqzby-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-9" value="Sí que hi ha pasta de dents, i em rento les dents" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-15" target="RJ5lauoAsY-VUKiGqzby-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-15" value="Obrir l&#39;aixeta" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-17" target="RJ5lauoAsY-VUKiGqzby-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-17" value="Mullar un amica el respall de dents" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-19" target="RJ5lauoAsY-VUKiGqzby-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-19" value="Començar a respallar les dents poc a poc." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RJ5lauoAsY-VUKiGqzby-21" target="RJ5lauoAsY-VUKiGqzby-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818" y="980" as="sourcePoint" />
+            <mxPoint x="818" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-23" value="Deixar el respall al seu lloc" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="RJ5lauoAsY-VUKiGqzby-25" target="RJ5lauoAsY-VUKiGqzby-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-30" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RJ5lauoAsY-VUKiGqzby-27" vertex="1" connectable="0">
+          <mxGeometry x="0.0912" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RJ5lauoAsY-VUKiGqzby-25" target="RJ5lauoAsY-VUKiGqzby-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-31" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RJ5lauoAsY-VUKiGqzby-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.1733" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-25" value="Revisar que ens hem netejat les dents correctament." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-28" value="Seguir respallant les dents fins que estiguin netes." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="RJ5lauoAsY-VUKiGqzby-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818" y="980" as="sourcePoint" />
+            <mxPoint x="818" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-21" value="Glopetjar aigua perquè no quedin les bactèries dins la boca." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RJ5lauoAsY-VUKiGqzby-28" target="RJ5lauoAsY-VUKiGqzby-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="990" />
+              <mxPoint x="630" y="990" />
+              <mxPoint x="630" y="997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-36" value="FINAL" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ5lauoAsY-VUKiGqzby-37" value="FINAL" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="470" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
