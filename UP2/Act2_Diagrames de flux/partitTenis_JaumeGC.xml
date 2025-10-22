@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="1ewcd0_lB0eYUkDJAhL_">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ApfFfGvMtkmBFsnqORht-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-1" target="ApfFfGvMtkmBFsnqORht-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-1" value="partitTenis_JaumeGC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-2" target="ApfFfGvMtkmBFsnqORht-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-2" value="Arribar a la pista de tenis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-4" target="ApfFfGvMtkmBFsnqORht-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-4" value="Començar a calentar per no tenir lesió" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-6" target="ApfFfGvMtkmBFsnqORht-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-6" value="Saludar a l&#39;arbrit i a l&#39;oponent" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-10" target="ApfFfGvMtkmBFsnqORht-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-16" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApfFfGvMtkmBFsnqORht-13">
+          <mxGeometry x="0.04" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-10" target="ApfFfGvMtkmBFsnqORht-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-17" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApfFfGvMtkmBFsnqORht-15">
+          <mxGeometry x="-0.14" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-10" value="Guanyam el punt" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-12" target="ApfFfGvMtkmBFsnqORht-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="755" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-12" value="Es suma el punt al rival" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-14" target="ApfFfGvMtkmBFsnqORht-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-14" value="Es suma el punt per nosaltres" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-18" target="ApfFfGvMtkmBFsnqORht-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-18" value="Continuar el partit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-20" target="ApfFfGvMtkmBFsnqORht-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-20" value="Acabar el partit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-26" target="ApfFfGvMtkmBFsnqORht-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-32" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApfFfGvMtkmBFsnqORht-29">
+          <mxGeometry x="-0.335" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-26" target="ApfFfGvMtkmBFsnqORht-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-33" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApfFfGvMtkmBFsnqORht-31">
+          <mxGeometry x="0.01" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-26" value="Hem guanyat el partit?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1040" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-28" target="ApfFfGvMtkmBFsnqORht-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1205" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-28" value="Felicitam al rival per la victòria" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApfFfGvMtkmBFsnqORht-30" target="ApfFfGvMtkmBFsnqORht-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1210" />
+              <mxPoint x="410" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-30" value="Felicitam al rival pel esforç" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApfFfGvMtkmBFsnqORht-36" value="Final algoritme" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1280" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

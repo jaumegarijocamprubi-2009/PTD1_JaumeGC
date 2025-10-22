@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="d4lNseYhbjDdSJcYJyg8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEbKUVu6HU3NW_oMKgvA-1" target="NEbKUVu6HU3NW_oMKgvA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-1" value="Inici_Entrar a un videojoc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEbKUVu6HU3NW_oMKgvA-2" target="NEbKUVu6HU3NW_oMKgvA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-2" value="Obrim l&#39;aparell elèctrònic on jugarem a n&#39;aquest joc" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEbKUVu6HU3NW_oMKgvA-6" target="NEbKUVu6HU3NW_oMKgvA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-10" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="NEbKUVu6HU3NW_oMKgvA-9">
+          <mxGeometry x="-0.0682" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEbKUVu6HU3NW_oMKgvA-6" target="NEbKUVu6HU3NW_oMKgvA-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="450" />
+              <mxPoint x="420" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-13" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="NEbKUVu6HU3NW_oMKgvA-12">
+          <mxGeometry x="-0.0729" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-6" value="Està instal.lat el videojoc?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEbKUVu6HU3NW_oMKgvA-8" target="NEbKUVu6HU3NW_oMKgvA-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="465" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-8" value="Instal.lam el videojoc" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEbKUVu6HU3NW_oMKgvA-11" target="NEbKUVu6HU3NW_oMKgvA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-11" value="Obrim el videojoc" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEbKUVu6HU3NW_oMKgvA-16" target="NEbKUVu6HU3NW_oMKgvA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-16" value="Jugar al videojoc" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEbKUVu6HU3NW_oMKgvA-18" value="Final algoritme" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
