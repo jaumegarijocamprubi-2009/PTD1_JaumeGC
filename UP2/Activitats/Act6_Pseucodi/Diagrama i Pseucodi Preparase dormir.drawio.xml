@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Página-1" id="s2SPbfP5OGbtUUud_7HF">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HLfc2V8pxfCLtUUwCrLe-1" target="9hL6gXzA4YoqPchtCV3Z-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLfc2V8pxfCLtUUwCrLe-1" value="Diagrama Preparar-se anar a dormir" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9hL6gXzA4YoqPchtCV3Z-1" target="9hL6gXzA4YoqPchtCV3Z-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-1" value="Ens posam el pijama" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9hL6gXzA4YoqPchtCV3Z-7" target="9hL6gXzA4YoqPchtCV3Z-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-13" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9hL6gXzA4YoqPchtCV3Z-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.3467" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9hL6gXzA4YoqPchtCV3Z-7" target="9hL6gXzA4YoqPchtCV3Z-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-14" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9hL6gXzA4YoqPchtCV3Z-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.22" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-7" value="&amp;nbsp;Esta fet el&amp;nbsp;&lt;div&gt;llit?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-9" value="Fer el llit" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9hL6gXzA4YoqPchtCV3Z-11" target="9hL6gXzA4YoqPchtCV3Z-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-11" value="Rentar dents abans de dormir" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9hL6gXzA4YoqPchtCV3Z-17" value="Final algoritme" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SUjV3fRcz9Hv4T0eJZ3O-2" value="&lt;div&gt;&lt;u&gt;INICI ALGORITME&lt;/u&gt;&lt;/div&gt;1. Posar el pijama&lt;div&gt;2. Revisar si el llit està fet&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;SI esta fet el llit entonces&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Rentar dents abans de anar a dormir.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;SINO&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;SINO està fet el llit el feim&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;FINAL ALGORITME&lt;/u&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="420" width="270" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

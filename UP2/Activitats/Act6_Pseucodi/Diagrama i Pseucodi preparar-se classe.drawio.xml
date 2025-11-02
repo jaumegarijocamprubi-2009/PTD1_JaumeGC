@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Página-1" id="XWakfzI8Lch2Lkd3lZ_j">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V18bWcEpZDkgOLl3LDub-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V18bWcEpZDkgOLl3LDub-1" target="V18bWcEpZDkgOLl3LDub-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-1" value="INICI_Diagrma preparar-se per classe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V18bWcEpZDkgOLl3LDub-2" target="V18bWcEpZDkgOLl3LDub-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-2" value="Entrar a l&#39;aula" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V18bWcEpZDkgOLl3LDub-4" target="V18bWcEpZDkgOLl3LDub-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-4" value="Saludar a la professora i companys" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V18bWcEpZDkgOLl3LDub-6" target="V18bWcEpZDkgOLl3LDub-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-6" value="Seure a la cadira" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V18bWcEpZDkgOLl3LDub-8" target="V18bWcEpZDkgOLl3LDub-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-8" value="Treure el material necessari." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-10" value="FINAL ALGORITME" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V18bWcEpZDkgOLl3LDub-12" value="&lt;div&gt;&lt;u&gt;INICI ALGORITME&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;1. Entarar a l&#39;aula&lt;div&gt;2. Saludar a la professora i companys&lt;/div&gt;&lt;div&gt;3. Seure a la cadira&lt;/div&gt;&lt;div&gt;4. Treure el material necessari&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;FINAL ALGORITME&lt;/u&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="410" width="230" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
