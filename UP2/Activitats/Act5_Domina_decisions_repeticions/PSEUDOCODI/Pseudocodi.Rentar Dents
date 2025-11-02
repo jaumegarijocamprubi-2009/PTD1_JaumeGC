@@ -1,0 +1,16 @@
+INICI
+
+    1. Agafar el respall de dents
+    2. Revisar si hi ha pasta de dents
+    SI hi ha pasta de dents entonces
+        3. Obrir l'aixeta
+        4. Mullar una mica el respall de dents
+        5. Començar a respallar les dents poc a poc.
+
+        SI estan netes les dents entonces
+            6. Deixar el respall al seu lloc
+        FIN_SI
+    SINO
+        3. Sino hi ha pasta de dents FINAL
+    FIN_SI
+FIN 
