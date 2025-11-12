@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Página-1" id="B1KNUIlwOyKHJiEOE_kk">
+    <mxGraphModel dx="1158" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ArohRYBhvuR_ofv80fmw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-1" target="ArohRYBhvuR_ofv80fmw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-1" value="INICI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-6" target="ArohRYBhvuR_ofv80fmw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-10" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ArohRYBhvuR_ofv80fmw-9">
+          <mxGeometry x="-0.1467" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-6" target="ArohRYBhvuR_ofv80fmw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-6" value="Mòvil encès?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-8" target="ArohRYBhvuR_ofv80fmw-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="240" />
+              <mxPoint x="110" y="1145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-8" value="Mostrar missatge mòvil apagat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-14" target="ArohRYBhvuR_ofv80fmw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-18" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ArohRYBhvuR_ofv80fmw-17">
+          <mxGeometry x="-0.0889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-14" target="ArohRYBhvuR_ofv80fmw-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-44" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ArohRYBhvuR_ofv80fmw-43">
+          <mxGeometry x="-0.3211" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-14" value="Connexió a internet?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-16" target="ArohRYBhvuR_ofv80fmw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-16" value="Escriure un misssatge" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-19" target="ArohRYBhvuR_ofv80fmw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-19" target="ArohRYBhvuR_ofv80fmw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-25" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ArohRYBhvuR_ofv80fmw-24">
+          <mxGeometry x="-0.01" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-19" value="Comprobar que el hi ha text" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="650" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-21" target="ArohRYBhvuR_ofv80fmw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-21" value="Enviar el missatge" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-23" target="ArohRYBhvuR_ofv80fmw-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-23" value="No hi ha texte per enviar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-28" target="ArohRYBhvuR_ofv80fmw-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-28" value="Mostrar missatge enviar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-30" value="Final algoritme" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1105" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ArohRYBhvuR_ofv80fmw-42" target="ArohRYBhvuR_ofv80fmw-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="1145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-42" value="Mostrar missatge no hi ha internet" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArohRYBhvuR_ofv80fmw-49" value="&lt;li data-start=&quot;189&quot; data-end=&quot;217&quot;&gt;&lt;p data-start=&quot;192&quot; data-end=&quot;217&quot;&gt;&lt;span data-start=&quot;192&quot; data-end=&quot;217&quot;&gt;Inici de l’algoritme.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;219&quot; data-end=&quot;351&quot;&gt;&lt;p data-start=&quot;222&quot; data-end=&quot;257&quot;&gt;Comprovar si el mòbil està encès.&lt;/p&gt;&lt;ul data-start=&quot;261&quot; data-end=&quot;351&quot;&gt;&lt;li data-start=&quot;261&quot; data-end=&quot;351&quot;&gt;&lt;p data-start=&quot;263&quot; data-end=&quot;351&quot;&gt;Si &lt;span data-start=&quot;266&quot; data-end=&quot;272&quot;&gt;NO&lt;/span&gt; està encès, mostrar el missatge &lt;em data-start=&quot;305&quot; data-end=&quot;321&quot;&gt;&quot;Mòbil apagat&quot;&lt;/em&gt; i &lt;span data-start=&quot;324&quot; data-end=&quot;351&quot;&gt;finalitzar l’algoritme.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;353&quot; data-end=&quot;506&quot;&gt;&lt;p data-start=&quot;356&quot; data-end=&quot;403&quot;&gt;Comprovar si el mòbil té connexió a Internet.&lt;/p&gt;&lt;ul data-start=&quot;407&quot; data-end=&quot;506&quot;&gt;&lt;li data-start=&quot;407&quot; data-end=&quot;506&quot;&gt;&lt;p data-start=&quot;409&quot; data-end=&quot;506&quot;&gt;Si &lt;span data-start=&quot;412&quot; data-end=&quot;418&quot;&gt;NO&lt;/span&gt; hi ha connexió, mostrar el missatge &lt;em data-start=&quot;455&quot; data-end=&quot;476&quot;&gt;&quot;No hi ha Internet&quot;&lt;/em&gt; i &lt;span data-start=&quot;479&quot; data-end=&quot;506&quot;&gt;finalitzar l’algoritme.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;508&quot; data-end=&quot;550&quot;&gt;&lt;p data-start=&quot;511&quot; data-end=&quot;550&quot;&gt;Escriure el missatge que es vol enviar.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;552&quot; data-end=&quot;712&quot;&gt;&lt;p data-start=&quot;555&quot; data-end=&quot;593&quot;&gt;Comprovar si el missatge conté text.&lt;/p&gt;&lt;ul data-start=&quot;597&quot; data-end=&quot;712&quot;&gt;&lt;li data-start=&quot;597&quot; data-end=&quot;712&quot;&gt;&lt;p data-start=&quot;599&quot; data-end=&quot;712&quot;&gt;Si &lt;span data-start=&quot;602&quot; data-end=&quot;608&quot;&gt;NO&lt;/span&gt; hi ha text, mostrar el missatge &lt;em data-start=&quot;641&quot; data-end=&quot;669&quot;&gt;&quot;No hi ha text per enviar&quot;&lt;/em&gt;, tornar al pas d’&lt;span data-start=&quot;687&quot; data-end=&quot;711&quot;&gt;escriure el missatge&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;714&quot; data-end=&quot;736&quot;&gt;&lt;p data-start=&quot;717&quot; data-end=&quot;736&quot;&gt;Enviar el missatge.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;738&quot; data-end=&quot;781&quot;&gt;&lt;p data-start=&quot;741&quot; data-end=&quot;781&quot;&gt;Mostrar el missatge &lt;em data-start=&quot;761&quot; data-end=&quot;780&quot;&gt;&quot;Missatge enviat&quot;&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;738&quot; data-end=&quot;781&quot;&gt;&lt;p data-start=&quot;741&quot; data-end=&quot;781&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Finalitzar l’algoritme.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1200" width="420" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

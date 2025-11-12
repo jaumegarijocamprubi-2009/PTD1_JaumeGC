@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Página-1" id="jwoHwpu1MGKxP1LPlKNl">
+    <mxGraphModel dx="1097" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-1" target="vpfBHyHZhHxlJZdMZUFL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-1" value="Algoritme_Encertar&lt;div&gt;número secret&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-2" target="vpfBHyHZhHxlJZdMZUFL-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-2" value="Numero secret=25" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-6" target="vpfBHyHZhHxlJZdMZUFL-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-6" value="Demanar número secret" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-10" target="vpfBHyHZhHxlJZdMZUFL-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-14" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpfBHyHZhHxlJZdMZUFL-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.1467" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-10" target="vpfBHyHZhHxlJZdMZUFL-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-10" value="ës el numero 7?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-12" target="vpfBHyHZhHxlJZdMZUFL-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-12" value="Tornar-ho a intentar" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-17" target="vpfBHyHZhHxlJZdMZUFL-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-17" value="es un número més alt" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-19" target="vpfBHyHZhHxlJZdMZUFL-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-23" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpfBHyHZhHxlJZdMZUFL-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.16" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-19" target="vpfBHyHZhHxlJZdMZUFL-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzVc-hp1ngmPBhnFIx2H-3" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vpfBHyHZhHxlJZdMZUFL-28">
+          <mxGeometry x="0.0427" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-19" value="És algun dia especial per tu?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="780" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-21" value="Seguir intentant adivinar el nombre" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-27" target="vpfBHyHZhHxlJZdMZUFL-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-33" value="SÍ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpfBHyHZhHxlJZdMZUFL-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.0844" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-27" value="És el número&lt;div&gt;25?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="955" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vpfBHyHZhHxlJZdMZUFL-31" target="vpfBHyHZhHxlJZdMZUFL-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-31" value="Enhorabona! Has encertat! (dia del meu cumpleanys)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpfBHyHZhHxlJZdMZUFL-34" value="FINAL ALGORITME" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1255" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FzVc-hp1ngmPBhnFIx2H-2" value="1. INICI ALGORITME&lt;div&gt;&lt;br&gt;&lt;div&gt;2.&amp;nbsp; El número secret és el 25.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Demanar el número secret&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. El numéro secret és el 7?&lt;/div&gt;&lt;div&gt;SI el número no és 7, tornar-ho a intentar i tornar al pas 3.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Pista: és un número més alt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Es un número especial per tu?&lt;/div&gt;&lt;div&gt;SINO és un número especial, seguir intentar adivinar el nombre.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. És el número 25?&lt;/div&gt;&lt;div&gt;SÍ!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Enhorabona! Has encertat!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Final algoritme&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="380" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
