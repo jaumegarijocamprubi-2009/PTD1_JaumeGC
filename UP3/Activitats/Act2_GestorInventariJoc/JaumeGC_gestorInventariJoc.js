@@ -24,3 +24,18 @@ total_or=monedes_or*oro_por_moneda;
 
 total_inventari=total_punts_vida+total_pocions_magia+total_or;
 let bonus= 20;
+let calcul_bonus=total_or*(bonus/100);
+total_inventari= total_inventari + calcul_bonus
+/*Jugador: Alex
+--- Inventari ---
+Pocions de vida: 3 (150 punts)
+Pocions de màgia: 2 (70 punts)
+Monedes d’or: 2 (20 punts)
+Total de valor: 240 punts
+ */
+console.log("Jugador: " + nom);
+console.log("--- Inventari ---");
+console.log("Pocions de vida: " + pocions_vida + " (" + total_punts_vida + " punts)");
+console.log("Pocions de magia: " + pocions_màgia + " (" + total_pocions_magia + " punts)");
+console.log("Monedes d'or: " + monedes_or + " (" + total_or + " punts)");
+console.log("Total de valor: " + total_inventari + " punts");
